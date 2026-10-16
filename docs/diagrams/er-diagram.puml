@@ -1,4 +1,3 @@
-@startuml er-diagram
 skinparam linetype ortho
 
 entity "Groups" as groups {
